@@ -17,7 +17,7 @@ Work experience
 ======
 * Summer 2020: Research Assistant
   * University of California, Irvine
-  * Duties included: Lead on research on persona-based dialogue system.
+  * Duties included: Led on research about persona-based dialogue system.
   * Supervisor: Professor Ian Harris
   
 Skills
