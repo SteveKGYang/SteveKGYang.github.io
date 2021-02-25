@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-School of Computer Science
+**School of Computer Science
 
-Harbin Institute of Technology
+**Harbin Institute of Technology
 
