@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kailai's Hmoe Page"
+title                    : "Kailai's Home Page"
 title_separator          : "-"
 name                     : &name "Kailai Yang"
 description              : &description "personal description"
