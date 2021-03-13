@@ -13,15 +13,3 @@ Hi, I'm Kailai, an undergraduate student from Harbin Institute of Technology, Ch
 My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. I did research about persona-based dialogue systems as a research assistant in the University of California, Irvine, in 2020, under the supervision of [Prof. Ian Harris](https://www.ics.uci.edu/~harris/). I'm now focusing on emotion recognition in conversation for my graduation project.
 
 In my spare time I love playing basketball, watching movies and hip-hop.
-
-
----
-permalink: /
-title: "News"
-excerpt: "News"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-Dec. 15, 2021: I'm excited to join ITNLP lab for reearch about emotion recognition in conversation! I'll b working with Prof. Bingquan Liu.
