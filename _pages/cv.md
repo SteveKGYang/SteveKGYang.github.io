@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Harbin Institute of Technology, 2021
+* MPhil in Computer Science, University of Manchester, 2021 - 2023
+* BEng in Computer Science, Harbin Institute of Technology, 2017 - 2021
 
 Work experience
 ======
-* Dec 2020 - Now: Research Intern
+* Dec 2020 - June 2021: Research Intern
   * Harbin Institute of Technology
   * Duties included: Worked on research about combining external knowledge in emotion recognition in conversation systems.
   * Supervisor: Professor Bingquan Liu
