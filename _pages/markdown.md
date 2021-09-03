@@ -7,7 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
-**School of Computer Science
+National Centre for Text Mining
 
-**Harbin Institute of Technology
+Manchester Institute of Biotechnology
+
+131 Princess Street
+
+Manchester
+
+M1 7DN
+
+UK
 
