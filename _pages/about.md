@@ -12,4 +12,4 @@ Hi, I'm Kailai, a Master of Philosophy candidate from the University of Manchest
 
 My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. That's why I'm now focusing on emotion recognition in conversation, including knowledge introduction to ERC and conversation modelling.
 
-In my spare time I love playing basketball, watching movies and hip-hop.
+In my spare time I love playing basketball and watching movies.
