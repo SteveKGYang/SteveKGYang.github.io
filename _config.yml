@@ -86,7 +86,7 @@ author:
   location         : "Manchester, UK"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=df4H1aQAAAAJ&hl"
   email            : "klyang990203@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
