@@ -14,14 +14,4 @@ My research interests mainly lie in natural language processing. I'm most intere
 
 In my spare time I love playing basketball and watching movies.
 
----
-permalink: /
-title: "Professional Services"
-excerpt: "Professional Services"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-Hi, I'm Kail
+<font size=3>Professional Services</font>
