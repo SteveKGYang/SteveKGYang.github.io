@@ -14,11 +14,11 @@ My research interests mainly lie in natural language processing. I'm most intere
 
 In my spare time I love playing basketball and watching movies.
 
-<font size=5>__Professional Services__</font>
+<b><font size=5>Professional Services</font>
 
-* <font size=4>__Journal Reviewer__</font>
+* <b><font size=4>Journal Reviewer</font>
   * Information Processing & Management
 
-* <font size=4>__Program Committee/Reviewer__</font>
+* <b><font size=4>Program Committee/Reviewer</font>
   * BIBM' 22
   * PAKDD' 22
