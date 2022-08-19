@@ -1,10 +1,7 @@
 ---
-permalink: /markdown/
-title: "Contact Information"
+permalink: /publications/
+title: "Publications"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
 
