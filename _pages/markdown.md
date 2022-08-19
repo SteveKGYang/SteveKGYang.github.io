@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Contact Information"
+title: "Address"
 author_profile: true
 redirect_from: 
   - /md/
@@ -10,16 +10,11 @@ redirect_from:
 
 
 
-
-National Centre for Text Mining
-
-Manchester Institute of Biotechnology
-
-131 Princess Street
-
-Manchester
-
-M1 7DN
-
+ <br/>
+National Centre for Text Mining, <br/>
+Manchester Institute of Biotechnology,<br/>
+131 Princess Street,<br/>
+Manchester,<br/>
+M1 7DN,<br/>
 UK
 
