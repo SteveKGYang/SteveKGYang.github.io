@@ -13,7 +13,7 @@ author_profile: true
 
 * <b><font size=5>Conference Papers</font>
   * <font size=3>Yunhe Xie*, <b>Kailai Yang</b>*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
-Multi-Task Learning for Emotion Recognition in Conversations". In <i>Findings of EMNLP 2021</i>.</font>
+Multi-Task Learning for Emotion Recognition in Conversations". In <i>Findings of EMNLP 2021</i>.[Download paper](https://aclanthology.org/2021.findings-emnlp.245/)</font>
   * PAKDD' 22
 
 * <b><font size=4>Journal Papers</font>
