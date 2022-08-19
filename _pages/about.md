@@ -8,12 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Kailai, a Master of Philosophy candidate from the University of Manchester, UK. I focus on computer science and natural language processing in [NaCTeM](http://nactem.ac.uk/) group. I'm supervised by Prof. [Sophia Ananiadou](https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html) and Prof. [Junichi Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii). I obtained my BEng degree in Computer Science from Harbin Institute of Technology, China.
+<font size=4>Hi, I'm Kailai, a Master of Philosophy candidate from the University of Manchester, UK. I focus on computer science and natural language processing in [NaCTeM](http://nactem.ac.uk/) group. I'm supervised by Prof. [Sophia Ananiadou](https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html) and Prof. [Junichi Tsujii](http://www.nactem.ac.uk/profile.php?member=jtsujii). I obtained my BEng degree in Computer Science from Harbin Institute of Technology, China.<br/>
+My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. That's why I'm now focusing on emotion recognition in conversation, including knowledge introduction to ERC and conversation modelling.<br/>
 
-My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. That's why I'm now focusing on emotion recognition in conversation, including knowledge introduction to ERC and conversation modelling.
+In my spare time I love playing basketball and watching movies.</font><br/>
 
-In my spare time I love playing basketball and watching movies.
+<b><font size=5>News</font>
 
+* <font size=4><b>May. 4, 2022</b> Our paper: "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection 
+  on Social Media" has been accepted by Information Processing & Management as a journal paper. I worked as the first author of this paper.</font>
+* <font size=4><b>Aug. 8, 2021</b>: I’m excited that our paper: "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task 
+  Learning for Emotion Recognition in Conversations", has been accpted as findings paper of EMNLP 2021. I worked as co-first author of this paper. 
+  It mainly focused on using different dimensions of external knowledge to aid ERC task.</font>
+* <font size=4><b>May. 1, 2021</b>: I’m so excited that I will be joining national centre for text mining (NaCTeM), University of Manchester in late
+  2021, for a Master of Philosophy degree. I will be under the supervision of Prof. Sofia Ananiadou, who is very pofessional but easy-going. I will 
+  be focusing on emotion related NLP tasks.</font>
+ 
 <b><font size=5>Professional Services</font>
 
 * <b><font size=4>Journal Reviewer</font>
