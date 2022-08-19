@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<font size=4>Hi, I'm Kailai, a Master of Philosophy candidate from the <a href="https://www.manchester.ac.uk/">University of Manchester</a>, UK. I focus on computer science and natural language processing in <a href="http://nactem.ac.uk/">NaCTeM</a> group. I'm supervised by Prof. <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof. <a href="http://www.nactem.ac.uk/profile.php?member=jtsujii">Junichi Tsujii</a>. I obtained my BEng degree in Computer Science and Technology from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>, China.<br/>
-My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. That's why I'm now focusing on emotion recognition in conversation, including knowledge introduction to ERC and conversation modelling.<br/>
+<font size=4>Hi, I'm Kailai, a Master of Philosophy candidate from the <a href="https://www.manchester.ac.uk/">University of Manchester</a>, UK. I focus on computer science and natural language processing in <a href="http://nactem.ac.uk/">NaCTeM</a> group. I'm supervised by Prof. <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof. <a href="http://www.nactem.ac.uk/profile.php?member=jtsujii">Junichi Tsujii</a>. I obtained my BEng degree in Computer Science and Technology from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>, China.
+
+
+My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. That's why I'm now focusing on emotion recognition in conversation, including knowledge introduction to ERC and conversation modelling.
+
 
 In my spare time I love playing basketball and watching movies.</font><br/>
 
