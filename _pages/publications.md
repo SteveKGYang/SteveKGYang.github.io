@@ -17,7 +17,7 @@ Multi-Task Learning for Emotion Recognition in Conversations". In <i>Findings of
   * <font size=3>Shengjun Yin, <b>Kailai Yang</b>, Hongzhi Wang. "A MOOC Courses Recommendation System Based on Learning Behaviours". In <i>ACM TURC 2020</i>. <a href="https://dl.acm.org/doi/10.1145/3393527.3393550">Download paper</a></font>
 
 * <b><font size=4>Journal Papers</font>
-  * <font size=3><b>Kailai Yang</b>*, Tianlin Zhang, Sophia Ananiadou. "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media". In <i>Information Processing & Management, Volume 59, Issue 4, 2022.</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000796">Download paper</a></font>
+  * <font size=3><b>Kailai Yang</b>*, Tianlin Zhang, Sophia Ananiadou. "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media". In <i>Information Processing & Management, Volume 59, Issue 4, 2022</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000796">Download paper</a></font>
  
 * <b><font size=4>Thesis</font>
   * <font size=3> "Introduction of Commonsense and Sentiment Lexicon Knowledge to Emotion Recognition in Conversations (In Chinese)". For <i>BEng in Harbin Institute of Technology</i>. <a href="https://github.com/SteveKGYang/SteveKGYang.github.io/blob/master/files/HIT_thesis.pdf">Download thesis</a></font>
