@@ -4,12 +4,15 @@ title: ""
 author_profile: true
 ---
 
+{% include base_path %}
+
+[Download CV here](https://stevekgyang.github.io/files/CV.pdf)
 
 <b><font size=6>Publications</font>
 
 * <b><font size=4>Working Papers</font>
   * <font size=3><b>Kailai Yang</b>, Sophia Ananiadou. "Disentangled Variational Autoencoder for Emotion Recognition in Conversations". Submitted to <i>AAAI 2023</i> (Under review).</font>
-  * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Hassan Alhuzali, Sophia Ananiadou. "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations". Submitted to <i>IEEE Transactions on Affective Computing</i> (Under review). <a href="https://www.researchgate.net/publication/362909377_Cluster-Level_Contrastive_Learning_for_Emotion_Recognition_in_Conversations">Read abstract</a></font>
+  * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Hassan Alhuzali, Sophia Ananiadou. "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations". Submitted to <i>IEEE Transactions on Affective Computing</i> (Under review). <a href="https://stevekgyang.github.io/files/tac_paper.pdf">Download Paper</a></font>
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3>Yunhe Xie*, <b>Kailai Yang</b>*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
