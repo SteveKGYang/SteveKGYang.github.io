@@ -6,7 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-[Download CV here](https://stevekgyang.github.io/files/CV.pdf)
 
 <b><font size=6>Publications</font>
 
@@ -23,4 +22,4 @@ Multi-Task Learning for Emotion Recognition in Conversations". In <i>Findings of
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Sophia Ananiadou. "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media". In <i>Information Processing & Management, Volume 59, Issue 4, 2022</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000796">Download paper</a></font>
  
 * <b><font size=4>Thesis</font>
-  * <font size=3> "Introduction of Commonsense and Sentiment Lexicon Knowledge to Emotion Recognition in Conversations (In Chinese)". For <i>BEng in Harbin Institute of Technology</i>. <a href="https://github.com/SteveKGYang/SteveKGYang.github.io/raw/master/files/HIT_thesis.pdf">Download thesis</a></font>
+  * <font size=3> "Introduction of Commonsense and Sentiment Lexicon Knowledge to Emotion Recognition in Conversations (In Chinese)". For <i>BEng in Harbin Institute of Technology</i>. <a href="https://stevekgyang.github.io/files/HIT_thesis.pdf">Download thesis</a></font>
