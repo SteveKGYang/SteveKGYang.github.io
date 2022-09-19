@@ -13,7 +13,7 @@ author_profile: true
   * <font size=3><b>Kailai Yang</b>, Sophia Ananiadou. "Disentangled Variational Autoencoder for Emotion Recognition in Conversations". Submitted to <i>AAAI 2023</i> (Under review).</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Hassan Alhuzali, Sophia Ananiadou. "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations". Submitted to <i>IEEE Transactions on Affective Computing</i> (Under review). <a href="https://stevekgyang.github.io/files/tac_paper.pdf">Download paper</a></font>
   * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou. "Sentiment-guided Transformer for Depression Detection with
-Severity-aware Contrastive Learning". Submitted to <i>Journal of Medical Internet Research</i> (Under review). <a href="https://stevekgyang.github.io/files/JBI.pdf">Download paper</a></font>
+Severity-aware Contrastive Learning". Submitted to <i>Journal of Medical Internet Research, Mental Health</i> (Under review). <a href="https://stevekgyang.github.io/files/JBI.pdf">Download paper</a></font>
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3>Yunhe Xie*, <b>Kailai Yang</b>*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
