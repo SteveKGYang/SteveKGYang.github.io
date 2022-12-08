@@ -16,13 +16,13 @@ In my spare time I love playing basketball and watching movies.</font><br/>
 
 <b><font size=5>News</font></b>
 
-* <font size=4><b>May. 4, 2022</b> Our paper: "Emotion fusion for mental illness detection from social media: A survey" has been accepted by Information Fusion as a journal paper.
-* <font size=4><b>May. 4, 2022</b> Our paper: "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection 
+* <font size=4><b>Nov, 2022</b> Our paper: "Emotion fusion for mental illness detection from social media: A survey" has been accepted by Information Fusion as a journal paper.
+* <font size=4><b>May, 2022</b> Our paper: "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection 
   on Social Media" has been accepted by Information Processing & Management as a journal paper. I worked as the first author of this paper.</font>
-* <font size=4><b>Aug. 8, 2021</b>: I’m excited that our paper: "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task 
+* <font size=4><b>Aug, 2021</b>: I’m excited that our paper: "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task 
   Learning for Emotion Recognition in Conversations", has been accpted as findings paper of EMNLP 2021. I worked as co-first author of this paper. 
   It mainly focused on using different dimensions of external knowledge to aid ERC task.</font>
-* <font size=4><b>May. 1, 2021</b>: I’m so excited that I will be joining national centre for text mining (NaCTeM), University of Manchester in late
+* <font size=4><b>May, 2021</b>: I’m so excited that I will be joining national centre for text mining (NaCTeM), University of Manchester in late
   2021, for a Master of Philosophy degree. I will be under the supervision of Prof. Sofia Ananiadou, who is very pofessional but easy-going. I will 
   be focusing on emotion related NLP tasks.</font>
  
