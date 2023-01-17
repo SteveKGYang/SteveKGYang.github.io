@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kailai Yang"
   avatar           : "photo1.png"
-  bio              : "MPhil candidate in University of Manchester."
+  bio              : "PhD candidate in the University of Manchester."
   location         : "Manchester, UK"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=df4H1aQAAAAJ&hl"
   email            : "kailai.yang@postgrad.manchester.ac.uk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kailai_Yang"
   uri              :
   bitbucket        :
   codepen          :
