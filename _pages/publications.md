@@ -11,8 +11,6 @@ author_profile: true
 
 * <b><font size=4>Working Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Hassan Alhuzali, Sophia Ananiadou. "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations". Submitted to <i>IEEE Transactions on Affective Computing</i> (Under review).</font>
-  * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou. "Sentiment-guided Transformer for Depression Detection with
-Severity-aware Contrastive Learning". Submitted to <i>IEEE Transactions on Computational Social Systems</i> (Under review).</font>
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3>Yunhe Xie*, <b>Kailai Yang</b>*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
