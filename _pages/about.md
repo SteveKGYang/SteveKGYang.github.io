@@ -33,6 +33,6 @@ In my spare time I love playing basketball and watching movies.</font><br/>
   * Information Processing & Management
 
 * <b><font size=4>Program Committee/Reviewer</font>
-  * ACL Rolling Review, 22
+  * ACL Rolling Review 22, 23
   * BIBM' 22
   * PAKDD' 22, 23
