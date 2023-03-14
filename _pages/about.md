@@ -12,7 +12,7 @@ redirect_from:
 
 My research interests mainly lie in natural language processing. I'm most interested in dialogue systems and ways to make them more human-like, such as persona-based techniques and emotion-sensitive methods. I'm now focusing on conversational affective computing, especially knowledge infusion methods and conversation modelling.<br/><br/>
 
-In my spare time I love playing basketball and watching movies.</font><br/>
+I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan).</font><br/>
 
 <b><font size=5>News</font></b>
 
