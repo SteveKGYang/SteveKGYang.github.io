@@ -30,6 +30,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 <b><font size=5>Professional Services</font>
 
 * <b><font size=4>Journal Reviewer</font>
+  * Artificial Intelligence Review
   * Information Processing & Management
 
 * <b><font size=4>Program Committee/Reviewer</font>
