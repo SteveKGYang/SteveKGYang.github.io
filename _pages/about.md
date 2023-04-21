@@ -16,13 +16,12 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 
 <b><font size=5>News</font></b>
 
+* <font size=4><b>Apr, 2023</b> New preprint: "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health".
 * <font size=4><b>Apr, 2023</b> New preprint: "On the Evaluations of ChatGPT and Emotion-enhanced Prompting for Mental Health Analysis".
 * <font size=4><b>Feb, 2023</b> Our paper: "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
 * <font size=4><b>Nov, 2022</b> Our paper: "Emotion fusion for mental illness detection from social media: A survey" has been accepted by Information Fusion as a journal paper.
 * <font size=4><b>May, 2022</b> Our paper: "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection 
   on Social Media" has been accepted by Information Processing & Management as a journal paper. I worked as the first author of this paper.</font>
-* <font size=4><b>Aug, 2021</b>: Our paper: "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware Multi-Task 
-  Learning for Emotion Recognition in Conversations", has been accpted as a findings paper of EMNLP 2021.</font>
  
 <b><font size=5>Professional Services</font>
 
