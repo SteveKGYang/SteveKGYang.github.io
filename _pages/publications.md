@@ -23,5 +23,5 @@ Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021<
   * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Shaoxiong Ji, Sophia Ananiadou. "Emotion fusion for mental illness detection from social media: A survey". In <i>Information Fusion, 2022 (IF: 17.564)</i>. <a href="https://doi.org/10.1016/j.inffus.2022.11.031">Download paper</a></font>
   
 * <b><font size=4>Thesis</font>
-  * <font size=3> "Representation Learning for Emotion Recognition and Mental Health Analysis". For <i>MPhil Computer Science in University of Manchester</i>. <a href="https://stevekgyang.github.io/files/MPhil_thesis.pdf">Download thesis</a></font>
+  * <font size=3> "Representation Learning for Emotion Recognition and Mental Health Analysis". For <i>MPhil Computer Science in University of Manchester</i>. <a href="https://research.manchester.ac.uk/en/studentTheses/representation-learning-for-emotion-recognition-and-mental-health">Download thesis</a></font>
   * <font size=3> "Introduction of Commonsense and Sentiment Lexicon Knowledge to Emotion Recognition in Conversations (In Chinese)". For <i>BEng Computer Science in Harbin Institute of Technology</i>. <a href="https://stevekgyang.github.io/files/HIT_thesis.pdf">Download thesis</a></font>
