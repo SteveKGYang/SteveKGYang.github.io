@@ -16,6 +16,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 
 <b><font size=5>News</font></b>
 
+* <font size=4><b>May, 2023</b> Our paper: "Disentangled Variational Autoencoder for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
 * <font size=4><b>Apr, 2023</b> New preprint: "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health".
 * <font size=4><b>Apr, 2023</b> New preprint: "Towards Interpretable Mental Health Analysis with ChatGPT".
 * <font size=4><b>Feb, 2023</b> Our paper: "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
