@@ -16,6 +16,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 
 <b><font size=5>News</font></b>
 
+* <font size=4><b>May, 2023</b> Our paper: "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" has been accepted by BioNLP@ACL 2023.
 * <font size=4><b>May, 2023</b> Our paper: "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" has been accepted by Information Processing & Management as a journal paper.
 * <font size=4><b>May, 2023</b> Our paper: "Disentangled Variational Autoencoder for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
 * <font size=4><b>Apr, 2023</b> New preprint: "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health".
