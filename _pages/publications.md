@@ -16,7 +16,7 @@ author_profile: true
 * <b><font size=4>Conference Papers</font>
   * <font size=3><b>Kailai Yang</b>, Yunhe Xie, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
 Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021</i>. <a href="https://aclanthology.org/2021.findings-emnlp.245/">Download paper</a></font>
-  * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou. "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media". In <i>BioNLP@ACL 2023</i>. <a href="">Download paper</a></font>
+  * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou. "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media". In <i>BioNLP@ACL 2023</i>. <a href="https://aclanthology.org/2023.bionlp-1.9/">Download paper</a></font>
 
 * <b><font size=4>Journal Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Sophia Ananiadou. "Disentangled Variational Autoencoder for Emotion Recognition in Conversations". In <i>IEEE Transactions on Affective Computing, 2023 (IF: 13.99)</i> <a href="https://arxiv.org/abs/2305.14071">Download paper</a></font>
