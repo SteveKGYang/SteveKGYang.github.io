@@ -16,6 +16,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 
 <b><font size=5>News</font></b>
 
+* <font size=4><b>Aug, 2023</b> Our paper: "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge" has been accepted by CIKM 2023 as a full long paper. See you in Birmingham!
 * <font size=4><b>Aug, 2023</b> I will work as a teaching assistant for the course COMP34711 Natural Language Processing in UoM.
 * <font size=4><b>May, 2023</b> Our paper: "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" has been accepted by BioNLP@ACL 2023.
 * <font size=4><b>May, 2023</b> Our paper: "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" has been accepted by Information Processing & Management as a journal paper.
