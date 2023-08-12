@@ -15,7 +15,7 @@ author_profile: true
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Shaoxiong Ji, Sophia Ananiadou. "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge". In <i>CIKM 2023</i>. <a href="https://arxiv.org/abs/2308.04811">Download paper</a></font>
-  * <font size=3><b>Kailai Yang</b>\*, Yunhe Xie\*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
+  * <font size=3><b>Kailai Yang</b>*, Yunhe Xie*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
 Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021 findings</i>. <a href="https://aclanthology.org/2021.findings-emnlp.245/">Download paper</a></font>
   * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou. "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media". In <i>BioNLP@ACL 2023</i>. <a href="https://aclanthology.org/2023.bionlp-1.9/">Download paper</a></font>
 
