@@ -16,6 +16,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 
 <b><font size=5>News</font></b>
 
+* <font size=4><b>Sep, 2023</b> New preprint: "MentalLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models".
 * <font size=4><b>Aug, 2023</b> Our paper: "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge" has been accepted by CIKM 2023 as a full long paper. See you in Birmingham!
 * <font size=4><b>Aug, 2023</b> I will work as a teaching assistant for the course COMP34711 Natural Language Processing in UoM.
 * <font size=4><b>May, 2023</b> Our paper: "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" has been accepted by BioNLP@ACL 2023.
@@ -25,8 +26,6 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <font size=4><b>Apr, 2023</b> New preprint: "Towards Interpretable Mental Health Analysis with ChatGPT".
 * <font size=4><b>Feb, 2023</b> Our paper: "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
 * <font size=4><b>Nov, 2022</b> Our paper: "Emotion fusion for mental illness detection from social media: A survey" has been accepted by Information Fusion as a journal paper.
-* <font size=4><b>May, 2022</b> Our paper: "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection 
-  on Social Media" has been accepted by Information Processing & Management as a journal paper. I worked as the first author of this paper.</font>
  
 <b><font size=5>Professional Services</font>
 
