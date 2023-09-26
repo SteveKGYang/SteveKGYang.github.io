@@ -10,6 +10,7 @@ author_profile: true
 <b><font size=6>Publications</font>
 
 * <b><font size=4>Preprints</font>
+  * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Sophia Ananiadou. "MentalLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Shaoxiong Ji, Tianlin Zhang, Qianqian Xie, Ziyan Kuang, Sophia Ananiadou. "Towards Interpretable Mental Health Analysis with ChatGPT". <a href="https://arxiv.org/abs/2304.03347">Download paper</a></font>
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria, Jörg Tiedemann. "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health". <a href="https://arxiv.org/abs/2304.10447">Download paper</a></font>
 
