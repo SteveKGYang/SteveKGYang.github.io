@@ -11,10 +11,10 @@ author_profile: true
 
 * <b><font size=4>Preprints</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Sophia Ananiadou. "MentalLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
-  * <font size=3><b>Kailai Yang</b>, Shaoxiong Ji, Tianlin Zhang, Qianqian Xie, Ziyan Kuang, Sophia Ananiadou. "Towards Interpretable Mental Health Analysis with ChatGPT". <a href="https://arxiv.org/abs/2304.03347">Download paper</a></font>
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria, Jörg Tiedemann. "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health". <a href="https://arxiv.org/abs/2304.10447">Download paper</a></font>
 
 * <b><font size=4>Conference Papers</font>
+  * <font size=3><b>Kailai Yang</b>, Shaoxiong Ji, Tianlin Zhang, Qianqian Xie, Ziyan Kuang, Sophia Ananiadou. "Towards Interpretable Mental Health Analysis with Large Language Models". In <i>EMNLP 2023</i> <a href="https://arxiv.org/abs/2304.03347">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Shaoxiong Ji, Sophia Ananiadou. "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge". In <i>CIKM 2023</i>. <a href="https://arxiv.org/abs/2308.04811">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>*, Yunhe Xie*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
 Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021 findings</i>. <a href="https://aclanthology.org/2021.findings-emnlp.245/">Download paper</a></font>
