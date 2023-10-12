@@ -10,7 +10,7 @@ redirect_from:
 
 <font size=4>Hi, I'm Kailai, a second-year Ph.D. candidate (President's Doctoral Scholar Awardee) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group. I'm advised by Prof. <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof. <a href="http://www.nactem.ac.uk/profile.php?member=jtsujii">Junichi Tsujii</a>. I obtained my B.E. degree in Computer Science and Technology from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>, China.<br/><br/>
 
-My previous works focus on affective computing and AI for mental health. I'm now interested in dialogue systems, especially the latest development in large language models. I'm working on deploying LLMs to empower current NLP applications, such as mental health analysis on social media. I'm also exploring effiecient tuning of foundation models to enable broader access of their power.<br/><br/>
+My reserach mainly lies in natural language processing. My previous works focus on affective computing and AI for mental health. I'm now interested in dialogue systems, especially the latest development in large language models. I'm working on deploying LLMs to empower current NLP applications, such as mental health analysis on social media. I'm also exploring effiecient tuning of foundation models to enable broader access of their power.<br/><br/>
 
 I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan). Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
