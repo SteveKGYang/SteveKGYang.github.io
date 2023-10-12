@@ -17,7 +17,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 Check out our <a href="https://www.mllm-ai.com/home">MLLM talk</a> (Multimodal Large Language Model)!
 
 <b><font size=5>News</font></b>
-* <font size=4><b>Oct, 2023</b> I'm invited to work as a co-oragnizer of the <a href="https://www.mllm-ai.com/home">MLLM talk</a>! 
+* <font size=4><b>Oct, 2023</b> I'm invited to work as a co-organizer of the <a href="https://www.mllm-ai.com/home">MLLM talk</a>! 
 * <font size=4><b>Oct, 2023</b> Our paper: "Towards Interpretable Mental Health Analysis with Large Language Models" has been accepted by EMNLP 2023 main conference as a long paper. See you in Singapore!
 * <font size=4><b>Sep, 2023</b> New preprint: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models".
 * <font size=4><b>Aug, 2023</b> Our paper: "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge" has been accepted by CIKM 2023 as a full long paper. See you in Birmingham!
