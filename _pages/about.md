@@ -14,9 +14,8 @@ My reserach mainly lies in natural language processing. My previous works focus 
 
 I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan). Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
-Check out our <a href="https://www.mllm-ai.com/home">MLLM talk</a> (Multimodal Large Language Model)!
-
 <b><font size=5>News</font></b>
+* <font size=4><b>Oct, 2023</b> I'm invited as a keynote speaker to give a talk at the <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop@CIKM 2023</a>!
 * <font size=4><b>Oct, 2023</b> I'm invited to work as a co-organizer of the <a href="https://www.mllm-ai.com/home">MLLM talk</a>! 
 * <font size=4><b>Oct, 2023</b> Our paper: "Towards Interpretable Mental Health Analysis with Large Language Models" has been accepted by EMNLP 2023 main conference as a long paper. See you in Singapore!
 * <font size=4><b>Sep, 2023</b> New preprint: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models".
@@ -26,15 +25,17 @@ Check out our <a href="https://www.mllm-ai.com/home">MLLM talk</a> (Multimodal L
 * <font size=4><b>May, 2023</b> Our paper: "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" has been accepted by Information Processing & Management as a journal paper.
 * <font size=4><b>May, 2023</b> Our paper: "Disentangled Variational Autoencoder for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
 * <font size=4><b>Apr, 2023</b> New preprint: "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health".
-* <font size=4><b>Feb, 2023</b> Our paper: "Cluster-Level Contrastive Learning for Emotion Recognition in Conversations" has been accepted by IEEE Transactions on Affective Computing as a journal paper.
- 
-<b><font size=5>Professional Services</font>
 
+<b><font size=5>Talk</font></b>
+  * <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop</a>@CIKM 2023. <a href="">\[Slides\]</a>
+
+<b><font size=5>Professional Services</font>
+* <b><font size=4>Organizer</font>
+  * <a href="https://www.mllm-ai.com/home">MLLM talk</a> (Multimodal Large Language Model)
 * <b><font size=4>Journal Reviewer</font>
   * CAAI Transactions on Intelligence Technology
   * Artificial Intelligence Review
   * Information Processing & Management
-
 * <b><font size=4>Program Committee/Reviewer</font>
   * ACL 23
   * ACL Rolling Review 22, 23
