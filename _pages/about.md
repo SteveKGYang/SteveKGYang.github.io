@@ -27,7 +27,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <font size=4><b>Apr, 2023</b> New preprint: "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health".
 
 <b><font size=5>Talk</font></b>
-  * <a href="https://uobevents.eventsair.com/cikm2023/">CIKM' 23</a> Main Conference. <a href="">\[Slides\]</a>
+  * <a href="https://uobevents.eventsair.com/cikm2023/">CIKM' 23</a> Main Conference. <a href="https://drive.google.com/file/d/1JscC1UJh1Ze5P3yqWSg7VJQZirjEH39Q/view?usp=sharing">\[Slides\]</a>
   * <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop</a>@CIKM' 23. <a href="https://drive.google.com/file/d/1JBbF6az1N7LaJcNEGSWOwaucvi9ydrzH/view?usp=sharing">\[Slides\]</a>
 
 <b><font size=5>Professional Services</font>
