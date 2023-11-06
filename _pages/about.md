@@ -15,6 +15,7 @@ My reserach mainly lies in natural language processing. My previous works focus 
 I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan). Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Nov, 2023</b> I'm invited to serve on the Program Committee for WWW 2024.
 * <font size=4><b>Nov, 2023</b> New preprint: "Emotion Detection for Misinformation: A Review".
 * <font size=4><b>Nov, 2023</b> I'm invited to give a talk at the <a href="https://www.mllm-ai.com/home">MLLM talk</a>!
 * <font size=4><b>Oct, 2023</b> I'm invited as a keynote speaker to give a talk at the <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop@CIKM 2023</a>!
@@ -39,6 +40,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
   * Artificial Intelligence Review
   * Information Processing & Management
 * <b><font size=4>Program Committee/Reviewer</font>
+  * WWW' 24
   * ACL' 23
   * EACL' 24
   * ACL Rolling Review 22, 23
