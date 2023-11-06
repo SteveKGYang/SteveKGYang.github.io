@@ -39,7 +39,8 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
   * Artificial Intelligence Review
   * Information Processing & Management
 * <b><font size=4>Program Committee/Reviewer</font>
-  * ACL 23
+  * ACL' 23
+  * EACL' 24
   * ACL Rolling Review 22, 23
   * BIBM' 22
   * PAKDD' 22, 23
