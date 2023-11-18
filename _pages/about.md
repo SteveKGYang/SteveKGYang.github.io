@@ -48,4 +48,4 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
   * PAKDD' 22, 23
 * <b><font size=4>Session Chair/Volunteer</font>
   * CIKM' 23
-  * [Ellis PhD Program](https://ellis.eu/phd-postdoc) Evaluater, 2023
+  * [Ellis PhD Program](https://ellis.eu/phd-postdoc) Evaluator, 2023
