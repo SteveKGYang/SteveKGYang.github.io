@@ -40,6 +40,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
   * CAAI Transactions on Intelligence Technology
   * Artificial Intelligence Review
   * Information Processing & Management
+  * Scientific Reports
 * <b><font size=4>Program Committee/Reviewer</font>
   * WWW' 24
   * ACL' 23
