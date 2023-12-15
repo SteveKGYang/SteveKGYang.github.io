@@ -44,6 +44,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
   * Information Processing & Management
   * Scientific Reports
 * <b><font size=4>Program Committee/Reviewer</font>
+  * NAACL' 24
   * WWW' 24
   * ACL' 23
   * EACL' 24
