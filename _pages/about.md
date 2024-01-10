@@ -38,8 +38,6 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
   * <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop</a>@CIKM' 23. <a href="https://drive.google.com/file/d/1JBbF6az1N7LaJcNEGSWOwaucvi9ydrzH/view?usp=sharing">\[Slides\]</a>
 
 <b><font size=5>Professional Services</font>
-* <b><font size=4>Organizer</font>
-  * <a href="https://www.mllm-ai.com/home">MLLM talk</a> (Multimodal Large Language Model)
 * <b><font size=4>Journal Reviewer</font>
   * CAAI Transactions on Intelligence Technology
   * Artificial Intelligence Review
