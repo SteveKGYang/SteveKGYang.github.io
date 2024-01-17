@@ -15,6 +15,7 @@ My reserach mainly lies in natural language processing. My previous works focus 
 I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan). Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Jan, 2024</b> New preprint: "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis".
 * <font size=4><b>Jan, 2024</b> New preprint: "Large Language Models in Mental Health Care: a Scoping Review".
 * <font size=4><b>Dec, 2023</b> New preprint: "Exploring the Residual Stream of Transformers".
 * <font size=4><b>Dec, 2023</b> I'm invited to give a talk about MentaLLaMA at the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health">mental health special interest group</a> at the Alan Turing Institute!
@@ -29,7 +30,6 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <font size=4><b>Aug, 2023</b> Our paper: "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge" has been accepted by CIKM 2023 as a full long paper. See you in Birmingham!
 * <font size=4><b>Aug, 2023</b> I will work as a teaching assistant for the course COMP34711 Natural Language Processing in UoM.
 * <font size=4><b>May, 2023</b> Our paper: "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" has been accepted by BioNLP@ACL 2023.
-* <font size=4><b>May, 2023</b> Our paper: "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media" has been accepted by Information Processing & Management as a journal paper.
 
 <b><font size=5>Talk</font></b>
   * <a href="https://2023.emnlp.org/">EMNLP' 23</a> Main Conference. <a href="">\[Slides\]</a>
