@@ -26,10 +26,6 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <font size=4><b>Oct, 2023</b> I'm invited as a keynote speaker to give a talk at the <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop@CIKM 2023</a>!
 * <font size=4><b>Oct, 2023</b> I'm invited to work as a co-organizer of the <a href="https://www.mllm-ai.com/home">MLLM talk</a>! 
 * <font size=4><b>Oct, 2023</b> Our paper: "Towards Interpretable Mental Health Analysis with Large Language Models" has been accepted by EMNLP 2023 main conference as a long paper. See you in Singapore!
-* <font size=4><b>Sep, 2023</b> New preprint: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models".
-* <font size=4><b>Aug, 2023</b> Our paper: "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge" has been accepted by CIKM 2023 as a full long paper. See you in Birmingham!
-* <font size=4><b>Aug, 2023</b> I will work as a teaching assistant for the course COMP34711 Natural Language Processing in UoM.
-* <font size=4><b>May, 2023</b> Our paper: "Sentiment-guided Transformer with severity-aware contrastive learning for depression detection on social media" has been accepted by BioNLP@ACL 2023.
 
 <b><font size=5>Talk</font></b>
   * <a href="https://2023.emnlp.org/">EMNLP' 23</a> Main Conference. <a href="">\[Slides\]</a>
