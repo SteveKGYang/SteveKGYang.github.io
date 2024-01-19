@@ -12,7 +12,6 @@ author_profile: true
 * <b><font size=4>Preprints</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Sophia Ananiadou. "MentalLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
   * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Tianlin Zhang, Qianqian Xie, Zeping Yu, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". <a href="https://arxiv.org/abs/2401.08508">Download paper</a></font>
-  * <font size=3>Zeping Yu, <b>Kailai Yang</b>, Zhiwei Liu, Sophia Ananiadou. "Exploring the Residual Stream of Transformers". <a href="https://arxiv.org/abs/2312.12141">Download paper</a></font>
   * <font size=3>Yining Hua, Fenglin Liu, <b>Kailai Yang</b>, Zehan Li, Yi-han Sheu, Peilin Zhou, Lauren V. Moran, Sophia Ananiadou, Andrew Beam. "Large Language Models in Mental Health Care: a Scoping Review". <a href="https://arxiv.org/abs/2401.02984">Download paper</a></font>
   * <font size=3>Zhiwei Liu, Tianlin Zhang, <b>Kailai Yang</b>, Paul Thompson, Zeping Yu, Sophia Ananiadou. "Emotion Detection for Misinformation: A Review". <a href="https://arxiv.org/abs/2311.00671">Download paper</a></font>
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria. "Rethinking Large Language Models in Mental Health Applications". <a href="https://arxiv.org/abs/2311.11267">Download paper</a></font>
