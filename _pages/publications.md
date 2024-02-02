@@ -10,7 +10,7 @@ author_profile: true
 <b><font size=6>Publications</font>
 
 * <b><font size=4>Preprints</font>
-  * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Tianlin Zhang, Qianqian Xie, Zeping Yu, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". <a href="https://arxiv.org/abs/2401.08508">Download paper</a></font>
+  * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". <a href="https://arxiv.org/abs/2401.08508">Download paper</a></font>
   * <font size=3>Yining Hua, Fenglin Liu, <b>Kailai Yang</b>, Zehan Li, Yi-han Sheu, Peilin Zhou, Lauren V. Moran, Sophia Ananiadou, Andrew Beam. "Large Language Models in Mental Health Care: a Scoping Review". <a href="https://arxiv.org/abs/2401.02984">Download paper</a></font>
   * <font size=3>Zhiwei Liu, Tianlin Zhang, <b>Kailai Yang</b>, Paul Thompson, Zeping Yu, Sophia Ananiadou. "Emotion Detection for Misinformation: A Review". <a href="https://arxiv.org/abs/2311.00671">Download paper</a></font>
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria. "Rethinking Large Language Models in Mental Health Applications". <a href="https://arxiv.org/abs/2311.11267">Download paper</a></font>
