@@ -12,7 +12,6 @@ author_profile: true
 * <b><font size=4>Preprints</font>
   * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". <a href="https://arxiv.org/abs/2401.08508">Download paper</a></font>
   * <font size=3>Yining Hua, Fenglin Liu, <b>Kailai Yang</b>, Zehan Li, Yi-han Sheu, Peilin Zhou, Lauren V. Moran, Sophia Ananiadou, Andrew Beam. "Large Language Models in Mental Health Care: a Scoping Review". <a href="https://arxiv.org/abs/2401.02984">Download paper</a></font>
-  * <font size=3>Zhiwei Liu, Tianlin Zhang, <b>Kailai Yang</b>, Paul Thompson, Zeping Yu, Sophia Ananiadou. "Emotion Detection for Misinformation: A Review". <a href="https://arxiv.org/abs/2311.00671">Download paper</a></font>
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria. "Rethinking Large Language Models in Mental Health Applications". <a href="https://arxiv.org/abs/2311.11267">Download paper</a></font>
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria, Jörg Tiedemann. "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health". <a href="https://arxiv.org/abs/2304.10447">Download paper</a></font>
 
@@ -30,6 +29,7 @@ Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021 
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Sophia Ananiadou. "A Mental State Knowledge-Aware and Contrastive Network for Early Stress and Depression Detection on Social Media". In <i>Information Processing & Management, 2022 (IF: 8.6)</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0306457322000796">Download paper</a></font>
   * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Shaoxiong Ji, Sophia Ananiadou. "Emotion fusion for mental illness detection from social media: A survey". In <i>Information Fusion, 2022 (IF: 17.564)</i>. <a href="https://doi.org/10.1016/j.inffus.2022.11.031">Download paper</a></font>
   * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Hassan Alhuzali, Boyang Liu, Sophia Ananiadou. "PHQ-aware depressive symptoms identification with similarity contrastive learning on social media". In <i>Information Processing & Management, 2022 (IF: 8.6)</i>. <a href="https://www.sciencedirect.com/science/article/pii/S0306457323001541">Download paper</a></font>
+  * <font size=3>Zhiwei Liu, Tianlin Zhang, <b>Kailai Yang</b>, Paul Thompson, Zeping Yu, Sophia Ananiadou. "Emotion Detection for Misinformation: A Review". In <i>Information Fusion, 2024 (IF: 17.564)</i> <a href="https://arxiv.org/abs/2311.00671">Download paper</a></font>
   
 * <b><font size=4>Thesis</font>
   * <font size=3> "Introduction of Commonsense and Sentiment Lexicon Knowledge to Emotion Recognition in Conversations (In Chinese)". For <i>BEng Computer Science in Harbin Institute of Technology</i>. <a href="https://stevekgyang.github.io/files/HIT_thesis.pdf">Download thesis</a></font>
