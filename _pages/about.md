@@ -15,6 +15,7 @@ My reserach mainly lies in natural language processing. My previous works focus 
 I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan). Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Jan, 2024</b> Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion!
 * <font size=4><b>Jan, 2024</b> Our paper: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" has been accepted by WWW 2024 as a long paper. See you in Singapore!
 * <font size=4><b>Jan, 2024</b> New preprint: "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis".
 * <font size=4><b>Jan, 2024</b> New preprint: "Large Language Models in Mental Health Care: a Scoping Review".
@@ -24,7 +25,6 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <font size=4><b>Nov, 2023</b> New preprint: "Emotion Detection for Misinformation: A Review".
 * <font size=4><b>Nov, 2023</b> I'm invited to give a talk at the <a href="https://www.mllm-ai.com/home">MLLM talk</a>!
 * <font size=4><b>Oct, 2023</b> I'm invited as a keynote speaker to give a talk at the <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop@CIKM 2023</a>!
-* <font size=4><b>Oct, 2023</b> I'm invited to work as a co-organizer of the <a href="https://www.mllm-ai.com/home">MLLM talk</a>! 
 * <font size=4><b>Oct, 2023</b> Our paper: "Towards Interpretable Mental Health Analysis with Large Language Models" has been accepted by EMNLP 2023 main conference as a long paper. See you in Singapore!
 
 <b><font size=5>Talk</font></b>
