@@ -11,7 +11,7 @@ redirect_from:
 
 My reserach mainly lies in natural language processing. My previous works focus on affective computing and AI for mental health. I'm now interested in dialogue systems, especially the latest development in large language models. I'm working on deploying LLMs to empower current NLP applications, such as mental health analysis on social media. I'm also exploring effiecient tuning of foundation models to enable broader access of their power.<br/><br/>
 
-I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci-fi fan). Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
+I also love the game of basketball (a Boston Celtics fan), and am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
 * <font size=4><b>Feb, 2024</b> New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models".
