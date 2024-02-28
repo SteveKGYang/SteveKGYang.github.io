@@ -28,6 +28,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <font size=4><b>Oct, 2023</b> Our paper: "Towards Interpretable Mental Health Analysis with Large Language Models" has been accepted by EMNLP 2023 main conference as a long paper. See you in Singapore!
 
 <b><font size=5>Talk</font></b>
+  * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
   * <a href="https://2023.emnlp.org/">EMNLP' 23</a> Main Conference. <a href="">\[Slides\]</a>
   * <a href="https://www.mllm-ai.com/home">MLLM talk</a>, Nov. 4, 2023. <a href="https://drive.google.com/file/d/1JYv_bgkyqSTGnMQhe3DqC1qdUR299OBH/view">\[Slides\]</a>
   * <a href="https://uobevents.eventsair.com/cikm2023/">CIKM' 23</a> Main Conference. <a href="https://drive.google.com/file/d/1JscC1UJh1Ze5P3yqWSg7VJQZirjEH39Q/view?usp=sharing">\[Slides\]</a>
@@ -42,7 +43,7 @@ I also love the game of basketball (a Boston Celtics fan) and movies (a huge sci
 * <b><font size=4>Program Committee/Reviewer</font>
   * NAACL' 24
   * WWW' 24
-  * ACL' 23
+  * ACL' 23, 24
   * EACL' 24
   * ACL Rolling Review 22, 23
   * BIBM' 22
