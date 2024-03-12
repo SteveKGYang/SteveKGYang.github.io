@@ -14,6 +14,7 @@ My reserach mainly lies in natural language processing. My previous works focus 
 I also love the game of basketball (a Boston Celtics fan), and am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Mar, 2024</b> New preprint: "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy".
 * <font size=4><b>Mar, 2024</b> New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model".
 * <font size=4><b>Feb, 2024</b> New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models".
 * <font size=4><b>Feb, 2024</b> Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
