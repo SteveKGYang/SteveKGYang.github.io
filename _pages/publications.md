@@ -16,6 +16,8 @@ author_profile: true
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria. "Rethinking Large Language Models in Mental Health Applications". <a href="https://arxiv.org/abs/2311.11267">Download paper</a></font>
   * <font size=3>Zhiwei Liu, Boyang Liu, Paul Thompson, <b>Kailai Yang</b>, Raghav Jain, Sophia Ananiadou. "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model". <a href="https://arxiv.org/abs/2403.06765">Download paper</a></font>  
   * <font size=3>Shaoxiong Ji, Tianlin Zhang, <b>Kailai Yang</b>, Sophia Ananiadou, Erik Cambria, Jörg Tiedemann. "Domain-specific Continued Pretraining of Language Models for Capturing Long Context in Mental Health". <a href="https://arxiv.org/abs/2304.10447">Download paper</a></font>
+  * <font size=3>Mengxi Xiao, Qianqian Xie, Ziyan Kuang, Zhicheng Liu, <b>Kailai Yang</b>, Min Peng, Weiguang Han, Jimin Huang. "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy". <a href="https://arxiv.org/abs/2403.05574">Download paper</a></font>
+
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". In <i>WWW 2024</i> <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
