@@ -14,6 +14,7 @@ My reserach mainly lies in natural language processing. I'm now interested in di
 I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Mar, 2024</b> New preprint: "MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models".
 * <font size=4><b>Mar, 2024</b> New preprint: "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy".
 * <font size=4><b>Mar, 2024</b> New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model".
 * <font size=4><b>Feb, 2024</b> New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models".
@@ -27,7 +28,6 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 * <font size=4><b>Nov, 2023</b> New preprint: "Emotion Detection for Misinformation: A Review".
 * <font size=4><b>Nov, 2023</b> I'm invited to give a talk at the <a href="https://www.mllm-ai.com/home">MLLM talk</a>!
 * <font size=4><b>Oct, 2023</b> I'm invited as a keynote speaker to give a talk at the <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop@CIKM 2023</a>!
-* <font size=4><b>Oct, 2023</b> Our paper: "Towards Interpretable Mental Health Analysis with Large Language Models" has been accepted by EMNLP 2023 main conference as a long paper. See you in Singapore!
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
