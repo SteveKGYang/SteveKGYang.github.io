@@ -38,6 +38,8 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 
 <b><font size=5>Professional Services</font>
 * <b><font size=4>Journal Reviewer</font>
+  * IEEE Transactions on Knowledge and Data Engineering
+  * ACM Transactions on Computing for Healthcare
   * CAAI Transactions on Intelligence Technology
   * Artificial Intelligence Review
   * Information Processing & Management
