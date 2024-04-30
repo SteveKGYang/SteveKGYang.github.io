@@ -15,6 +15,7 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 
 <b><font size=5>News</font></b>
 * <font size=4><b>Apr, 2024</b> I will work as a co-organizer of the shared task: FinLLM colocated with <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>.
+* <font size=4><b>Feb, 2024</b> Our paper: "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" has been accepted by SIGIR 2024 as a short paper.
 * <font size=4><b>Mar, 2024</b> New preprint: "MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models".
 * <font size=4><b>Mar, 2024</b> New preprint: "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy".
 * <font size=4><b>Mar, 2024</b> New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model".
@@ -26,7 +27,6 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 * <font size=4><b>Dec, 2023</b> I'm invited to give a talk about MentaLLaMA at the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health">mental health special interest group</a> at the Alan Turing Institute!
 * <font size=4><b>Nov, 2023</b> New preprint: "Rethinking Large Language Models in Mental Health Applications".
 * <font size=4><b>Nov, 2023</b> I'm invited to serve on the Program Committee for WWW 2024.
-* <font size=4><b>Nov, 2023</b> New preprint: "Emotion Detection for Misinformation: A Review".
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
