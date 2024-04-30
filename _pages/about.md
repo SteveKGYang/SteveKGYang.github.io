@@ -27,8 +27,6 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 * <font size=4><b>Nov, 2023</b> New preprint: "Rethinking Large Language Models in Mental Health Applications".
 * <font size=4><b>Nov, 2023</b> I'm invited to serve on the Program Committee for WWW 2024.
 * <font size=4><b>Nov, 2023</b> New preprint: "Emotion Detection for Misinformation: A Review".
-* <font size=4><b>Nov, 2023</b> I'm invited to give a talk at the <a href="https://www.mllm-ai.com/home">MLLM talk</a>!
-* <font size=4><b>Oct, 2023</b> I'm invited as a keynote speaker to give a talk at the <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop@CIKM 2023</a>!
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
