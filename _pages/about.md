@@ -14,6 +14,7 @@ My reserach mainly lies in natural language processing. I'm now interested in di
 I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Apr, 2024</b> I will work as a co-organizer of the shared task: FinLLM colocated with <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>.
 * <font size=4><b>Mar, 2024</b> New preprint: "MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models".
 * <font size=4><b>Mar, 2024</b> New preprint: "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy".
 * <font size=4><b>Mar, 2024</b> New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model".
@@ -52,6 +53,7 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
   * ACL Rolling Review 22, 23
   * BIBM' 22
   * PAKDD' 22, 23
-* <b><font size=4>Session Chair/Volunteer</font>
+* <b><font size=4>Organizer/Session Chair/Volunteer</font>
+  * <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>
   * CIKM' 23
   * [Ellis PhD Program](https://ellis.eu/phd-postdoc) Evaluator, 2023
