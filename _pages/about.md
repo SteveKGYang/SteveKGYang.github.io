@@ -14,6 +14,7 @@ My reserach mainly lies in natural language processing. I'm now interested in di
 I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>May, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been open-sourced at <a href="https://github.com/SteveKGYang/MetaAligner">github</a>.
 * <font size=4><b>Apr, 2024</b> I will work as a co-organizer of the shared task: FinLLM colocated with <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>.
 * <font size=4><b>Apr, 2024</b> Our paper: "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" has been accepted by SIGIR 2024 as a short paper.
 * <font size=4><b>Mar, 2024</b> New preprint: "MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models".
