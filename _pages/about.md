@@ -14,6 +14,7 @@ My reserach mainly lies in natural language processing. I'm now interested in di
 I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>May, 2024</b> One paper accepted by ACL 2024 and one paper accepted by KDD 2024.
 * <font size=4><b>May, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been open-sourced at <a href="https://github.com/SteveKGYang/MetaAligner">github</a>.
 * <font size=4><b>Apr, 2024</b> I will work as a co-organizer of the shared task: FinLLM colocated with <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>.
 * <font size=4><b>Apr, 2024</b> Our paper: "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" has been accepted by SIGIR 2024 as a short paper.
@@ -26,7 +27,6 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 * <font size=4><b>Jan, 2024</b> New preprint: "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis".
 * <font size=4><b>Jan, 2024</b> New preprint: "Large Language Models in Mental Health Care: a Scoping Review".
 * <font size=4><b>Dec, 2023</b> I'm invited to give a talk about MentaLLaMA at the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health">mental health special interest group</a> at the Alan Turing Institute!
-* <font size=4><b>Nov, 2023</b> New preprint: "Rethinking Large Language Models in Mental Health Applications".
 * <font size=4><b>Nov, 2023</b> I'm invited to serve on the Program Committee for WWW 2024.
 
 <b><font size=5>Talk</font></b>
