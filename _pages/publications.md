@@ -8,6 +8,7 @@ author_profile: true
 
 
 <b><font size=6>Selected Publications</font>
+
 For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.
 
 * <b><font size=4>Preprints</font>
