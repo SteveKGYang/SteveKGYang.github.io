@@ -9,7 +9,7 @@ author_profile: true
 
 <b><font size=6>Selected Publications</font>
 
-For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.
+<font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.</font>
 
 * <b><font size=4>Preprints</font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". <a href="https://arxiv.org/abs/2403.17141">Download paper</a></font>
