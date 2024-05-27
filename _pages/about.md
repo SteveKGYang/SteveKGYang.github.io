@@ -11,7 +11,11 @@ redirect_from:
 
 My reserach mainly lies in natural language processing. I'm now interested in dialogue systems, especially the latest development in large language models. I'm working on aligning LLMs to human preferences and values. I'm also exploring effiecient tuning of foundation models to enable broader access of their power. My previous works focus on affective computing and AI for mental health.<br/><br/>
 
-I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)</font><br/>
+I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)
+
+You can download my CV [here](https://stevekgyang.github.io/files/CV.pdf)
+
+</font><br/>
 
 <b><font size=5>News</font></b>
 * <font size=4><b>May, 2024</b> invited to serve as reviewer for NLPCC 2024.
