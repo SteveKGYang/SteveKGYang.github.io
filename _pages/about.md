@@ -13,7 +13,7 @@ My reserach mainly lies in natural language processing. I'm now interested in di
 
 I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)
 
-You can download my CV [here](https://stevekgyang.github.io/files/CV.pdf)
+You can also see my CV [here](https://stevekgyang.github.io/files/CV.pdf)
 
 </font><br/>
 
