@@ -28,9 +28,6 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
 * <font size=4><b>Feb, 2024</b> Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
 * <font size=4><b>Jan, 2024</b> Our paper: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" has been accepted by WWW 2024 as a long paper. See you in Singapore!
 * <font size=4><b>Jan, 2024</b> New preprint: "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis".
-* <font size=4><b>Jan, 2024</b> New preprint: "Large Language Models in Mental Health Care: a Scoping Review".
-* <font size=4><b>Dec, 2023</b> I'm invited to give a talk about MentaLLaMA at the <a href="https://www.turing.ac.uk/research/interest-groups/data-science-mental-health">mental health special interest group</a> at the Alan Turing Institute!
-* <font size=4><b>Nov, 2023</b> I'm invited to serve on the Program Committee for WWW 2024.
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
@@ -49,6 +46,7 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
   * Scientific Reports
 * <b><font size=4>Program Committee/Reviewer</font>
   * NAACL' 24
+  * EMNLP' 24
   * WWW' 24
   * ACL' 23, 24
   * EACL' 24
