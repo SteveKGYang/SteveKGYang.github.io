@@ -16,6 +16,7 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here</a>.</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>June, 2024</b> New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information".
 * <font size=4><b>May, 2024</b> invited to serve as reviewer for NLPCC 2024.
 * <font size=4><b>May, 2024</b> One paper accepted by ACL 2024 and one paper accepted by KDD 2024.
 * <font size=4><b>May, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been open-sourced at <a href="https://github.com/SteveKGYang/MetaAligner">github</a>.
@@ -27,7 +28,6 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
 * <font size=4><b>Feb, 2024</b> New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models".
 * <font size=4><b>Feb, 2024</b> Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
 * <font size=4><b>Jan, 2024</b> Our paper: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" has been accepted by WWW 2024 as a long paper. See you in Singapore!
-* <font size=4><b>Jan, 2024</b> New preprint: "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis".
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
