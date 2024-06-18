@@ -13,7 +13,7 @@ author_profile: true
 
 * <b><font size=4>Preprints</font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". <a href="https://arxiv.org/abs/2403.17141">Download paper</a></font>
-  * <font size=3>Qianqian Xie et al. "The FinBen: An Holistic Financial Benchmark for Large Language Models". <a href="https://arxiv.org/abs/2402.12659">Download paper</a></font>
+  * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Qianqian Xie, Christine de Kock, Sophia Ananiadou, Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information". <a href="https://arxiv.org/abs/2406.11093">Download paper</a></font>
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". In <i>WWW 2024</i> <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
