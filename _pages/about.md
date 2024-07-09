@@ -40,6 +40,7 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
 * <b><font size=4>Journal Reviewer</font>
   * IEEE Transactions on Knowledge and Data Engineering
   * ACM Transactions on Computing for Healthcare
+  * Journal of Biomedical Informatics
   * CAAI Transactions on Intelligence Technology
   * Artificial Intelligence Review
   * Information Processing & Management
