@@ -45,6 +45,7 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
   * Artificial Intelligence Review
   * Information Processing & Management
   * Scientific Reports
+  * IEEE Access
 * <b><font size=4>Program Committee/Reviewer</font>
   * NAACL' 24
   * EMNLP' 24
