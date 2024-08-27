@@ -12,6 +12,7 @@ author_profile: true
 <font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.</font>
 
 * <b><font size=4>Preprints</font>
+  * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". <a href="https://arxiv.org/abs/2408.13518">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". <a href="https://arxiv.org/abs/2403.17141">Download paper</a></font>
   * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Qianqian Xie, Christine de Kock, Sophia Ananiadou, Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information". <a href="https://arxiv.org/abs/2406.11093">Download paper</a></font>
 
