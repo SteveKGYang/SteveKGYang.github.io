@@ -23,7 +23,6 @@ author_profile: true
   * <font size=3><b>Kailai Yang</b>*, Yunhe Xie*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
 Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021 findings</i>. <a href="https://aclanthology.org/2021.findings-emnlp.245/">Download paper</a></font>
   * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Tianlin Zhang, Qianqian Xie, Sophia Ananiadou. "EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis". In <i>KDD 2024</i>. <a href="https://arxiv.org/abs/2401.08508">Download paper</a></font>
-  * <font size=3>Mengxi Xiao, Qianqian Xie, Ziyan Kuang, Zhicheng Liu, <b>Kailai Yang</b>, Min Peng, Weiguang Han, Jimin Huang. "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy". In <i>ACL 2024</i>. <a href="https://arxiv.org/abs/2403.05574">Download paper</a></font>
   * <font size=3>Tianlin Zhang, <b>Kailai Yang</b>, Shaoxiong Ji, Boyang Liu, Qianqian Xie, Sophia Ananiadou. "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content". In <i>SIGIR 2024 Resource Track</i>. <a href="https://dl.acm.org/doi/10.1145/3626772.3657852">Download paper</a></font>
 
 * <b><font size=4>Journal Papers</font>
