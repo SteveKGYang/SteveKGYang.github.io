@@ -16,6 +16,7 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here</a>.</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Sep, 2024</b> Invited to serve on the program committee for COLING 2025.
 * <font size=4><b>Aug, 2024</b> New preprint: "Selective Preference Optimization via Token-Level Reward Function Estimation".
 * <font size=4><b>June, 2024</b> New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information".
 * <font size=4><b>May, 2024</b> invited to serve as reviewer for NLPCC 2024.
@@ -25,10 +26,6 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
 * <font size=4><b>Apr, 2024</b> Our paper: "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" has been accepted by SIGIR 2024 as a short paper.
 * <font size=4><b>Mar, 2024</b> New preprint: "MetaAligner: Conditional Weak-to-Strong Correction for Generalizable Multi-Objective Alignment of Language Models".
 * <font size=4><b>Mar, 2024</b> New preprint: "HealMe: Harnessing Cognitive Reframing in Large Language Models for Psychotherapy".
-* <font size=4><b>Mar, 2024</b> New preprint: "ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model".
-* <font size=4><b>Feb, 2024</b> New preprint: "The FinBen: An Holistic Financial Benchmark for Large Language Models".
-* <font size=4><b>Feb, 2024</b> Our paper: "Emotion Detection for Misinformation: A Review" has been accepted by Information Fusion.
-* <font size=4><b>Jan, 2024</b> Our paper: "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models" has been accepted by WWW 2024 as a long paper. See you in Singapore!
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
@@ -53,6 +50,7 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
   * EMNLP' 24
   * WWW' 24
   * ACL' 23, 24
+  * COLING' 25
   * EACL' 24
   * NLPCC' 24
   * ACL Rolling Review
