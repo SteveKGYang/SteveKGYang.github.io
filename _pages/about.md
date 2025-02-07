@@ -16,6 +16,7 @@ I also love the game of basketball, reading, movies, and I am a huge sci-fi fan.
 You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here</a>.</font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Feb, 2025</b> Invited to serve on the program committee for SIGIR 2025.
 * <font size=4><b>Jan, 2025</b> Our paper: "Fmdllama: Financial misinformation detection based on large language models" accepted as a WWW 2025 short paper.
 * <font size=4><b>Sep, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurlPS 2024 main track! See you in Vancouver!
 * <font size=4><b>Sep, 2024</b> Invited to serve on the program committee for COLING 2025.
@@ -25,7 +26,6 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
 * <font size=4><b>May, 2024</b> One paper accepted by ACL 2024 and one paper accepted by KDD 2024.
 * <font size=4><b>May, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been open-sourced at <a href="https://github.com/SteveKGYang/MetaAligner">github</a>.
 * <font size=4><b>Apr, 2024</b> I will work as a co-organizer of the shared task: FinLLM colocated with <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>.
-* <font size=4><b>Apr, 2024</b> Our paper: "SuicidEmoji: Derived Emoji Dataset and Tasks for Suicide-Related Social Content" has been accepted by SIGIR 2024 as a short paper.
 
 <b><font size=5>Talk</font></b>
   * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
@@ -55,7 +55,7 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
   * EACL' 24
   * NLPCC' 24
   * ACL Rolling Review
-  * BIBM' 22
+  * SIGIR 25
   * PAKDD' 22, 23
 * <b><font size=4>Organizer/Session Chair/Volunteer</font>
   * <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>
