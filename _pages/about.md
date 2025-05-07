@@ -27,17 +27,11 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
 * <font size=4><b>May, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been open-sourced at <a href="https://github.com/SteveKGYang/MetaAligner">github</a>.
 * <font size=4><b>Apr, 2024</b> I will work as a co-organizer of the shared task: FinLLM colocated with <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>.
 
-<b><font size=5>Talk</font></b>
-  * <a href="https://turing-ds4mh.github.io/index.html">DS4MH</a> The Alan Turing Institute. <a href="">\[Slides\]</a>
-  * <a href="https://2023.emnlp.org/">EMNLP' 23</a> Main Conference. <a href="">\[Slides\]</a>
-  * <a href="https://www.mllm-ai.com/home">MLLM talk</a>, Nov. 4, 2023. <a href="https://drive.google.com/file/d/1JYv_bgkyqSTGnMQhe3DqC1qdUR299OBH/view">\[Slides\]</a>
-  * <a href="https://uobevents.eventsair.com/cikm2023/">CIKM' 23</a> Main Conference. <a href="https://drive.google.com/file/d/1JscC1UJh1Ze5P3yqWSg7VJQZirjEH39Q/view?usp=sharing">\[Slides\]</a>
-  * <a href="https://gdebasis.github.io/llmit/">LLMIT Workshop</a>@CIKM' 23. <a href="https://drive.google.com/file/d/1JBbF6az1N7LaJcNEGSWOwaucvi9ydrzH/view?usp=sharing">\[Slides\]</a>
-
 <b><font size=5>Professional Services</font>
 * <b><font size=4>Journal Reviewer</font>
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Affective Computing
+  * Expert Systems with Applications
   * Information Fusion
   * ACM Transactions on Computing for Healthcare
   * Journal of Biomedical Informatics
@@ -47,17 +41,14 @@ You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here
   * Scientific Reports
   * IEEE Access
 * <b><font size=4>Program Committee/Reviewer</font>
-  * NAACL' 24
-  * EMNLP' 24
-  * WWW' 24
-  * ACL' 23, 24
-  * COLING' 25
-  * EACL' 24
-  * NLPCC' 24
+  * NeurIPS
+  * NAACL
+  * EMNLP
+  * WWW
+  * ACL
+  * COLING
+  * EACL
+  * NLPCC
   * ACL Rolling Review
-  * SIGIR 25
-  * PAKDD' 22, 23
-* <b><font size=4>Organizer/Session Chair/Volunteer</font>
-  * <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-agentscen/shared-task-finllm">FinNLP-AgentScen@IJCAI-2024</a>
-  * CIKM' 23
-  * [Ellis PhD Program](https://ellis.eu/phd-postdoc) Evaluator, 2023
+  * SIGIR
+  * PAKDD
