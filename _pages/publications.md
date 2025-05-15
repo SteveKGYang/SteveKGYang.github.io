@@ -13,7 +13,6 @@ author_profile: true
 
 * <b><font size=4>Preprints</font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". <a href="https://arxiv.org/abs/2408.13518">Download paper</a></font>
-  * <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Qianqian Xie, Christine de Kock, Sophia Ananiadou, Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information". <a href="https://arxiv.org/abs/2406.11093">Download paper</a></font>
 
 * <b><font size=4>Conference Papers</font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In <i>NeurlPS 2024</i> <a href="https://arxiv.org/abs/2403.17141">Download paper</a></font>
@@ -22,6 +21,7 @@ author_profile: true
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Shaoxiong Ji, Sophia Ananiadou. "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge". In <i>CIKM 2023</i>. <a href="https://arxiv.org/abs/2308.04811">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>*, Yunhe Xie*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
 Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021 findings</i>. <a href="https://aclanthology.org/2021.findings-emnlp.245/">Download paper</a></font>
+* <font size=3>Zhiwei Liu, <b>Kailai Yang</b>, Qianqian Xie, Christine de Kock, Sophia Ananiadou, Eduard Hovy. "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information". In <i>ACL 2025</i>. <a href="https://arxiv.org/abs/2406.11093">Download paper</a></font>
 
 * <b><font size=4>Journal Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Sophia Ananiadou. "Disentangled Variational Autoencoder for Emotion Recognition in Conversations". In <i>IEEE Transactions on Affective Computing, 2023 (IF: 13.99)</i> <a href="https://arxiv.org/abs/2305.14071">Download paper</a></font>
