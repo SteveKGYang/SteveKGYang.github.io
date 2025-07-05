@@ -13,7 +13,11 @@ My reserach mainly lies in natural language processing. I'm now interested in di
 
 I also love the game of basketball, reading, movies, and I am a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)<br/><br/>
 
-You can also see my <a href="https://stevekgyang.github.io/files/CV.pdf">CV here</a>.</font><br/>
+<p style="color: red;">
+  I expect to graduate in Spring 2026 and am actively seeking full-time opportunities in the AI industry or academia.
+  Please contact me if my background aligns with your interests.
+  My CV is available upon request.
+</p></font><br/>
 
 <b><font size=5>News</font></b>
 * <font size=4><b>May, 2025</b> One paper accepted by ACL 2025.
