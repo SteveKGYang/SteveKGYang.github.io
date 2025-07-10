@@ -14,7 +14,7 @@ My reserach mainly lies in natural language processing. I'm now interested in th
 I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! :)<br/><br/>
 
 <p style="color: red;">
-  I expect to graduate in Spring 2026 and am actively seeking full-time opportunities in the AI industry or academia.
+  I expect to graduate in Spring 2026 and am actively seeking full-time opportunities in the AI academia or industry.
   Please contact me if my background aligns with your interests.
   My CV is available upon request.
 </p></font><br/>
