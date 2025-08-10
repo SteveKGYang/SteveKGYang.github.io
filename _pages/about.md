@@ -31,8 +31,9 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>May, 2024</b> One paper accepted by ACL 2024 and one paper accepted by KDD 2024.
 * <font size=4><b>May, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been open-sourced at <a href="https://github.com/SteveKGYang/MetaAligner">github</a>.
 
-<b><font size=5>Professional Services</font>
+<b><font size=5>Selected Professional Services</font>
 * <b><font size=4>Journal Reviewer</font>
+  * IEEE Transactions on Circuits and Systems for Video Technology
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Affective Computing
   * Expert Systems with Applications
@@ -42,8 +43,6 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
   * CAAI Transactions on Intelligence Technology
   * Artificial Intelligence Review
   * Information Processing & Management
-  * Scientific Reports
-  * IEEE Access
 * <b><font size=4>Program Committee/Reviewer</font>
   * NeurIPS
   * NAACL
@@ -55,6 +54,5 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
   * NLPCC
   * ACL Rolling Review
   * SIGIR
-  * PAKDD
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Mxw4l1NGB5FgKHDP6TsCwjE8FvQAKfkFI5HWonADyrA&cl=ffffff&w=a"></script>
