@@ -51,7 +51,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
   * ACL
   * COLING
   * EACL
-  * NLPCC
+  * AAAI
   * ACL Rolling Review
   * SIGIR
 
