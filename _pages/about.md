@@ -32,6 +32,8 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>May, 2024</b> One paper accepted by ACL 2024 and one paper accepted by KDD 2024.
 
 <b><font size=5>Selected Professional Services</font>
+* <b><font size=4>Area Chair</font>
+  * LREC' 26
 * <b><font size=4>Journal Reviewer</font>
   * IEEE Transactions on Circuits and Systems for Video Technology
   * IEEE Transactions on Knowledge and Data Engineering
