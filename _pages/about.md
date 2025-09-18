@@ -20,6 +20,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </p></font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Sep, 2025</b> One paper accepted by NeurIPS 2025.
 * <font size=4><b>Sep, 2025</b> Invited to serve as an area chair for LREC 2026.
 * <font size=4><b>Aug, 2025</b> Our paper: "Selective Preference Optimization via Token-Level Reward Function Estimation" has been accepted by EMNLP 2025 main conference! See you in Suzhou!
 * <font size=4><b>May, 2025</b> One paper accepted by ACL 2025.
@@ -29,8 +30,6 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>Sep, 2024</b> Invited to serve on the program committee for COLING 2025.
 * <font size=4><b>Aug, 2024</b> New preprint: "Selective Preference Optimization via Token-Level Reward Function Estimation".
 * <font size=4><b>June, 2024</b> New preprint: "RAEmoLLM: Retrieval Augmented LLMs for Cross-Domain Misinformation Detection Using In-Context Learning based on Emotional Information".
-* <font size=4><b>May, 2024</b> invited to serve as reviewer for NLPCC 2024.
-* <font size=4><b>May, 2024</b> One paper accepted by ACL 2024 and one paper accepted by KDD 2024.
 
 <b><font size=5>Selected Professional Services</font>
 * <b><font size=4>Area Chair</font>
