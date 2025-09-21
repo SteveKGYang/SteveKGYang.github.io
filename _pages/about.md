@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=4>Hi, I'm Kailai, a final-year Ph.D. candidate (President's doctoral scholar) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group. I'm advised by Prof. <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof. <a href="http://www.nactem.ac.uk/profile.php?member=jtsujii">Junichi Tsujii</a>. I obtained my B.E. degree in Computer Science and Technology from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a>, China.<br/><br/>
+<font size=4>Hi, I'm Kailai, a final-year Ph.D. candidate (President's doctoral scholar) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group. I'm advised by Prof. <a href="https://www.research.manchester.ac.uk/portal/sophia.ananiadou.html">Sophia Ananiadou</a> and Prof. <a href="http://www.nactem.ac.uk/profile.php?member=jtsujii">Junichi Tsujii</a>.<br/><br/>
 
 My reserach mainly lies in natural language processing. I'm now interested in the latest development in large language models. I'm working on aligning LLMs to human preferences and values. I'm also exploring efficient pre-training data mixing methods for foundation models to generally leverage their power. My previous works focus on affective computing and AI for mental health.<br/><br/>
 
