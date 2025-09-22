@@ -19,8 +19,6 @@ author_profile: true
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". In <i>WWW 2024</i> <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Shaoxiong Ji, Tianlin Zhang, Qianqian Xie, Ziyan Kuang, Sophia Ananiadou. "Towards Interpretable Mental Health Analysis with Large Language Models". In <i>EMNLP 2023</i> <a href="https://aclanthology.org/2023.emnlp-main.370/">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Shaoxiong Ji, Sophia Ananiadou. "A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge". In <i>CIKM 2023</i>. <a href="https://arxiv.org/abs/2308.04811">Download paper</a></font>
-  * <font size=3><b>Kailai Yang</b>*, Yunhe Xie*, Chengjie Sun, Bingquan Liu, Zhenzhou Ji. "Knowledge-Interactive Network with Sentiment Polarity Intensity-Aware
-Multi-Task Learning for Emotion Recognition in Conversations". In <i>EMNLP 2021 findings</i>. <a href="https://aclanthology.org/2021.findings-emnlp.245/">Download paper</a></font>
 
 * <b><font size=4>Journal Papers</font>
   * <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Sophia Ananiadou. "Disentangled Variational Autoencoder for Emotion Recognition in Conversations". In <i>IEEE Transactions on Affective Computing, 2023 (IF: 13.99)</i> <a href="https://arxiv.org/abs/2305.14071">Download paper</a></font>
