@@ -9,7 +9,7 @@ author_profile: true
 
 <b><font size=6>Selected Publications</font>
 
-<font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page. Corresponded papers denote papers where I worked as the corresponding author.</font>
+<font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.</font>
 
 * <b><font size=4>Preprints</font>
   * <font size=3>Hao Li, Yizheng Sun, Viktor Schlegel, <b>Kailai Yang (Corresponding Author)</b>, Riza Batista-Navarro, Goran Nenadic. "Arg-LLaDA: Argument Summarization via Large Language Diffusion
