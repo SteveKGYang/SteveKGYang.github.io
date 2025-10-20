@@ -42,7 +42,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
   * Information Fusion
   * ACM Transactions on Computing for Healthcare
   * Journal of Biomedical Informatics
-  * CAAI Transactions on Intelligence Technology
+  * Neural Networks
   * Artificial Intelligence Review
   * Information Processing & Management
 * <b><font size=4>Program Committee/Reviewer</font>
