@@ -20,6 +20,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </p></font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Oct, 2025</b> New preprint: "Natural Language Processing Applications in Cardiology: A Narrative Review".
 * <font size=4><b>Oct, 2025</b> Selected as top reviewers for NeurIPS 2025!
 * <font size=4><b>Oct, 2025</b> Successfully passed my PhD viva!
 * <font size=4><b>Oct, 2025</b> Invited to serve on the program committee for ECIR 2026.
@@ -29,7 +30,6 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>May, 2025</b> One paper accepted by ACL 2025.
 * <font size=4><b>Feb, 2025</b> Invited to serve on the program committee for SIGIR 2025.
 * <font size=4><b>Jan, 2025</b> Our paper: "Fmdllama: Financial misinformation detection based on large language models" accepted as a WWW 2025 short paper.
-* <font size=4><b>Sep, 2024</b> Our paper: "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models" has been accepted by NeurlPS 2024 main track! See you in Vancouver!
 
 <b><font size=5>Selected Professional Services</font>
 * <b><font size=4>Area Chair</font>
