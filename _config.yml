@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Kailai's Home Page"
 title_separator          : "-"
-name                     : &name "Kailai Yang"
+name                     : &name "Dr. Kailai Yang"
 description              : &description "personal description"
 url                      : https://SteveKGYang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kailai Yang"
+  name             : "Dr. Kailai Yang"
   avatar           : "photo1.png"
-  bio              : "PhD candidate, The University of Manchester."
+  bio              : "The University of Manchester."
   location         : "Manchester, UK"
   employer         :
   pubmed           :
