@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=4>Hi, I'm Kailai. I obained my Ph.D. degree as President's doctoral scholar at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group in Oct. 2025.<br/><br/>
+<font size=4>Hi, I'm Kailai. I obained my Ph.D. degree as President's doctoral scholar at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group in Oct. 2025. During PhD, I had the most enjoyable collaboration with Prof. Jun'ichi Tsujii and Prof. Sophia Ananiadou. I also spent wonderful time working with talented researchers from Microsoft Research, Baidu Search Science, and AIST, Japan.<br/><br/>
 
 My reserach mainly lies in natural language processing. I'm now interested in the latest development in large language models. I'm working on aligning LLMs to human preferences and values. I'm also exploring efficient pre-training data mixing methods for foundation models to generally leverage their power. My previous works focus on affective computing and AI for mental health.<br/><br/>
 
@@ -20,6 +20,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </p></font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Nov, 2025</b> Very excited to be invited to give talks about my research at the University of Birmingham, Tianjin University, and Beihang University!
 * <font size=4><b>Nov, 2025</b> My PhD thesis: "Mental Health Analysis in the Era of Large Language Models" has been published and filed by The University of Manchester!
 * <font size=4><b>Oct, 2025</b> New preprint: "Natural Language Processing Applications in Cardiology: A Narrative Review".
 * <font size=4><b>Oct, 2025</b> Selected as top reviewers for NeurIPS 2025!
@@ -29,7 +30,6 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>Sep, 2025</b> Invited to serve as an area chair for LREC 2026.
 * <font size=4><b>Aug, 2025</b> Our paper: "Selective Preference Optimization via Token-Level Reward Function Estimation" has been accepted by EMNLP 2025 main conference! See you in Suzhou!
 * <font size=4><b>May, 2025</b> One paper accepted by ACL 2025.
-* <font size=4><b>Feb, 2025</b> Invited to serve on the program committee for SIGIR 2025.
 
 <b><font size=5>Selected Professional Services</font>
 * <b><font size=4>Area Chair</font>
