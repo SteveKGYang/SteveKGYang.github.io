@@ -12,7 +12,7 @@ redirect_from:
 My research mainly lies in natural language processing. I'm now interested in the latest development in large language models. I'm working on aligning LLMs to human preferences and values. I'm also exploring efficient pre-training data mixing methods for foundation models to generally leverage their power. My previous works focus on affective computing and AI for mental health.<br/><br/>
 
 I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! : )<br/><br/>
-
+</font><br/>
 
 <b><font size=5>News</font></b>
 * <font size=4><b>Nov, 2025</b> Very excited to be invited to give talks about my research at the University of Birmingham!
