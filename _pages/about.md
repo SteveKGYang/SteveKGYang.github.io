@@ -13,6 +13,7 @@ My research mainly lies in natural language processing. I'm now interested in th
 
 I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan. Reach out if you are interested in collaboration or just want to have a nice chat! : )<br/><br/>
 
+
 <b><font size=5>News</font></b>
 * <font size=4><b>Nov, 2025</b> Very excited to be invited to give talks about my research at the University of Birmingham!
 * <font size=4><b>Nov, 2025</b> My PhD thesis: "Mental Health Analysis in the Era of Large Language Models" has been published and filed by The University of Manchester!
