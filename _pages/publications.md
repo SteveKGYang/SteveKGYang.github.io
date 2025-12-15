@@ -12,7 +12,6 @@ author_profile: true
 <font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.</font>
 
 * <b><font size=4>Preprints</font>
-  * <font size=3><b>Kailai Yang</b>, Yan Leng, Xin Zhang, Tianlin Zhang, Paul Thompson, Bernard Keavney, Maciej Tomaszewski, Sophia Ananiadou. "Natural Language Processing Applications in Cardiology: A Narrative Review". <a href="https://arxiv.org/abs/2510.16708">Download paper</a></font>
   * <font size=3>Yunna Cai, Fan Wang, Haowei Wang, Kun Wang, <b>Kailai Yang (Corresponding Author)</b>, Sophia Ananiadou, Moyan Li, Mingming Fan. "Exploring Safety Alignment Evaluation of LLMs in Chinese Mental Health Dialogues via LLM-as-Judge". <a href="https://arxiv.org/abs/2508.08236">Download paper</a></font>
   * <font size=3>Hao Li, Yizheng Sun, Viktor Schlegel, <b>Kailai Yang (Corresponding Author)</b>, Riza Batista-Navarro, Goran Nenadic. "Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement". <a href="https://arxiv.org/abs/2507.19081">Download paper</a></font>
   * <font size=3>Zhiwei Liu, <b>Kailai Yang (Corresponding Author)</b>, Eduard Hovy, Sophia Ananiadou. "Rumor Detection by Multi-task Suffix Learning based on Time-series Dual Sentiments". <a href="https://arxiv.org/abs/2502.14383">Download paper</a></font>
