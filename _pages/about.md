@@ -15,10 +15,10 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Jan, 2026</b> Our MentaLLaMA is covered by a recent report from Forbes entitled: <a href="https://www.forbes.com/sites/lanceeliot/2026/01/08/building-open-source-ai-models-that-emphasize-generating-mental-health-advice/">Building Open-Source AI Models That Emphasize Generating Mental Health Advice</a>.
 * <font size=4><b>Jan, 2026</b> Check out our new shared task: <a href="https://psydefdetect-shared-task.github.io/">PsyDefDetect</a> co-located with BioNLP@ACL 2026!
 * <font size=4><b>Nov, 2025</b> Very excited to be invited to give talks about my research at the University of Birmingham!
 * <font size=4><b>Nov, 2025</b> My PhD thesis: "Mental Health Analysis in the Era of Large Language Models" has been published and filed by The University of Manchester!
-* <font size=4><b>Oct, 2025</b> New preprint: "Natural Language Processing Applications in Cardiology: A Narrative Review".
 * <font size=4><b>Oct, 2025</b> Selected as top reviewers for NeurIPS 2025!
 * <font size=4><b>Oct, 2025</b> Successfully passed my PhD viva!
 * <font size=4><b>Oct, 2025</b> Invited to serve on the program committee for ECIR 2026.
