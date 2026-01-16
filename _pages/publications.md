@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-<b><font size=6>10 Selected Publications</font>
+<b><font size=6>Selected Publications</font>
 
 <font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.</font>
 
