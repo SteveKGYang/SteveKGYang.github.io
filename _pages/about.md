@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=4>Hi, I'm Kailai, currently a Postdoc researcher at the University of Manchester. I obained my Ph.D. degree as President's doctoral scholar at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group in Dec. 2025. During PhD, I had the most enjoyable collaboration with Prof. Jun'ichi Tsujii and Prof. Sophia Ananiadou. My work has been featured by renowned media such as Forbes. I also spent a wonderful time working with talented researchers from Microsoft Research, Baidu Search Science, and AIST, Japan.<br/><br/>
+<font size=4>Hi, I'm Kailai. I obained my Ph.D. degree as President's doctoral scholar at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group in Dec. 2025. During PhD, I had the most enjoyable collaboration with Prof. Jun'ichi Tsujii and Prof. Sophia Ananiadou. My work has been featured by renowned media such as Forbes. I also spent a wonderful time working with talented researchers from Microsoft Research, Baidu Search Science, and AIST, Japan.<br/><br/>
 
 My research mainly lies in artificial intelligence. I'm now interested in the latest developments in large language models. I'm working on building LLMs with more efficient memory mechanisms. I'm also exploring efficient pre-training data mixing methods for foundation models to generally leverage their power. My previous works focus on affective computing, AI for mental health, and continual training in LLMs.<br/><br/>
 
