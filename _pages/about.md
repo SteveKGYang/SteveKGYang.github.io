@@ -15,6 +15,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Feb, 2026</b> New preprint: MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval.
 * ⭐ <font size=4><b>Jan, 2026</b> My leading work MentaLLaMA is covered by a recent report from Forbes entitled: <a href="https://www.forbes.com/sites/lanceeliot/2026/01/08/building-open-source-ai-models-that-emphasize-generating-mental-health-advice/">Building Open-Source AI Models That Emphasize Generating Mental Health Advice</a> as a representative work in open-source LLMs for mental health.
 * ⭐ <b>Jan, 2026</b> My work on LLMs during PhD was presented in detail at Stanford AI4MH webinar. <a href="https://mediaspace.stanford.edu/media/AI4MH+Seminar+Series%2C+December+17%2C+2025%3A+From+Emotions+to+Explanations%3A+Building+Trustworthy+AI+for+Mental+Health/1_1sth2by5">Presentation Link</a>.
 * <font size=4><b>Jan, 2026</b> Check out our new shared task: <a href="https://psydefdetect-shared-task.github.io/">PsyDefDetect</a> co-located with BioNLP@ACL 2026!
