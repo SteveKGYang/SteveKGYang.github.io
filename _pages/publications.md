@@ -12,6 +12,7 @@ author_profile: true
 <font size=4>For a full list of my publications, please visit my <a href="https://scholar.google.com/citations?user=df4H1aQAAAAJ">Google Scholar</a> page.</font>
 
 * <b><font size=4>Preprints</font>
+  * <font size=3>Xin Zhang, <b>Kailai Yang (Corresponding Author)</b>, Chenyue Li, Hao Li, Qiyu Wei, Jun'ichi Tsujii, Sophia Ananiadou. "MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval". <a href="https://arxiv.org/abs/2602.08369">Download paper</a></font>
   * <font size=3>Hao Li, Yizheng Sun, Viktor Schlegel, <b>Kailai Yang (Corresponding Author)</b>, Riza Batista-Navarro, Goran Nenadic. "Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement". <a href="https://arxiv.org/abs/2507.19081">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Xiao Liu, Lei Ji, Hao Li, Yeyun Gong, Peng Cheng, Mao Yang. "Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training". <a href="https://arxiv.org/abs/2507.15640">Download paper</a></font>
 
