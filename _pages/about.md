@@ -15,6 +15,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Feb, 2026</b> Invited as keynote speaker at CL4Health wokshop co-located with LREC 2026.
 * <font size=4><b>Feb, 2026</b> New preprint: MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval.
 * ⭐ <font size=4><b>Jan, 2026</b> My leading work MentaLLaMA is covered by a recent report from Forbes entitled: <a href="https://www.forbes.com/sites/lanceeliot/2026/01/08/building-open-source-ai-models-that-emphasize-generating-mental-health-advice/">Building Open-Source AI Models That Emphasize Generating Mental Health Advice</a> as a representative work in open-source LLMs for mental health.
 * ⭐ <b>Jan, 2026</b> My work on LLMs during PhD was presented in detail at Stanford AI4MH webinar. <a href="https://mediaspace.stanford.edu/media/AI4MH+Seminar+Series%2C+December+17%2C+2025%3A+From+Emotions+to+Explanations%3A+Building+Trustworthy+AI+for+Mental+Health/1_1sth2by5">Presentation Link</a>.
@@ -25,7 +26,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>Oct, 2025</b> Successfully passed my PhD viva!
 * <font size=4><b>Oct, 2025</b> Invited to serve on the program committee for ECIR 2026.
 * <font size=4><b>Sep, 2025</b> One paper accepted by NeurIPS 2025.
-* <font size=4><b>Sep, 2025</b> Invited to serve as an area chair for LREC 2026.
+
 
 <b><font size=5>Selected Professional Services</font>
 * <b><font size=4>Area Chair</font>
