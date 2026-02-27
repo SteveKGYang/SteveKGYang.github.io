@@ -52,6 +52,6 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
   * EACL
   * AAAI
   * SIGIR
-  * ECIR
+  * KDD
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Mxw4l1NGB5FgKHDP6TsCwjE8FvQAKfkFI5HWonADyrA&cl=ffffff&w=a"></script>
