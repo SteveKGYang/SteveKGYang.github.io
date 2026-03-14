@@ -15,6 +15,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>Mar, 2026</b> My first successful funding application! Our project: Multi-Agent Reinforcement Learning for Financial AI, have been selected for NVIDIA Academic Grant Program!
 * <font size=4><b>Feb, 2026</b> Invited as keynote speaker at CL4Health wokshop co-located with LREC 2026.
 * <font size=4><b>Feb, 2026</b> New preprint: MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval.
 * ⭐ <font size=4><b>Jan, 2026</b> My leading work MentaLLaMA is covered by a recent report from Forbes entitled: <a href="https://www.forbes.com/sites/lanceeliot/2026/01/08/building-open-source-ai-models-that-emphasize-generating-mental-health-advice/">Building Open-Source AI Models That Emphasize Generating Mental Health Advice</a> as a representative work in open-source LLMs for mental health.
