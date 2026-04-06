@@ -13,11 +13,10 @@ author_profile: true
 
 * <b><font size=4>Preprints</font>
   * <font size=3>Xin Zhang, <b>Kailai Yang (Corresponding Author)</b>, Chenyue Li, Hao Li, Qiyu Wei, Jun'ichi Tsujii, Sophia Ananiadou. "MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval". <a href="https://arxiv.org/abs/2602.08369">Download paper</a></font>
-  * <font size=3>Hao Li, Yizheng Sun, Viktor Schlegel, <b>Kailai Yang (Corresponding Author)</b>, Riza Batista-Navarro, Goran Nenadic. "Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement". <a href="https://arxiv.org/abs/2507.19081">Download paper</a></font>
-  * <font size=3><b>Kailai Yang</b>, Xiao Liu, Lei Ji, Hao Li, Yeyun Gong, Peng Cheng, Mao Yang. "Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training". <a href="https://arxiv.org/abs/2507.15640">Download paper</a></font>
-
 
 * <b><font size=4>Conference Papers</font>
+  * <font size=3>Hao Li, Yizheng Sun, Viktor Schlegel, <b>Kailai Yang (Corresponding Author)</b>, Riza Batista-Navarro, Goran Nenadic. "Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement". In <i>ACL 2026</i> <a href="https://arxiv.org/abs/2507.19081">Download paper</a></font>
+  * <font size=3><b>Kailai Yang</b>, Xiao Liu, Lei Ji, Hao Li, Yeyun Gong, Peng Cheng, Mao Yang. "Data Mixing Agent: Learning to Re-weight Domains for Continual Pre-training". In <i>ACL 2026</i> <a href="https://arxiv.org/abs/2507.15640">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Erxue Min, Sophia Ananiadou. "Selective Preference Optimization via Token-Level Reward Function Estimation". In <i>EMNLP 2025</i> <a href="https://arxiv.org/abs/2408.13518">Download paper</a></font>
   * <font size=3><b>Kailai Yang</b>, Zhiwei Liu, Qianqian Xie, Jimin Huang, Tianlin Zhang, Sophia Ananiadou. "MetaAligner: Towards Generalizable Multi-Objective Alignment of Language Models". In <i>NeurlPS 2024</i> <a href="https://arxiv.org/abs/2403.17141">Download paper</a></font>
   * ⭐ <font size=3><b>Kailai Yang</b>, Tianlin Zhang, Ziyan Kuang, Qianqian Xie, Jimin Huang, Sophia Ananiadou. "MentaLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models". In <i>WWW 2024</i> <a href="https://www.forbes.com/sites/lanceeliot/2026/01/08/building-open-source-ai-models-that-emphasize-generating-mental-health-advice/">Forbes coverage</a> <a href="https://arxiv.org/abs/2309.13567">Download paper</a></font>
