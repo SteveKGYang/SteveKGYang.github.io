@@ -15,6 +15,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </font><br/>
 
 <b><font size=5>News</font></b>
+* <font size=4><b>April, 2026</b> Two papers accepted by ACL 2026!
 * <font size=4><b>Mar, 2026</b> My first successful funding application! Our project: Multi-Agent Reinforcement Learning for Financial AI, have been selected for NVIDIA Academic Grant Program!
 * <font size=4><b>Feb, 2026</b> Invited as keynote speaker at CL4Health wokshop co-located with LREC 2026.
 * <font size=4><b>Feb, 2026</b> New preprint: MemAdapter: Fast Alignment across Agent Memory Paradigms via Generative Subgraph Retrieval.
