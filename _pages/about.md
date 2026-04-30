@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=4>Hi, I'm Kailai. I obained my Ph.D. degree as President's doctoral scholar (Top 1%) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group. During PhD, I had the most enjoyable collaboration with Prof. Jun'ichi Tsujii and Prof. Sophia Ananiadou. My work has been featured by renowned media such as Forbes. I also spent a wonderful time working with talented researchers from Microsoft Research, Baidu Search Science, and AIST, Japan.<br/><br/>
+<font size=4>Hi, I'm Kailai. I obained my Ph.D. degree as Postgraduate Researcher of the Year (Top 0.1%) and President's doctoral scholar (Top 1%) at <a href="https://www.manchester.ac.uk/">The University of Manchester</a> and the <a href="http://nactem.ac.uk/">NaCTeM</a> group. During PhD, I had the most enjoyable collaboration with Prof. Jun'ichi Tsujii and Prof. Sophia Ananiadou. My work has been featured by renowned media such as Forbes. I also spent a wonderful time working with talented researchers from Microsoft Research, Baidu Search Science, and AIST, Japan.<br/><br/>
 
 My research mainly lies in artificial intelligence. I'm now interested in the latest developments in large language models. I'm working on building LLMs with more efficient memory mechanisms. I'm also exploring efficient pre-training data mixing methods for foundation models to generally leverage their power. My previous works focus on affective computing, AI for mental health, and continual training in LLMs.<br/><br/>
 
@@ -15,6 +15,7 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 </font><br/>
 
 <b><font size=5>News</font></b>
+* ⭐ <font size=4><b>April, 2026</b> I'm excited to be selected as University of Manchester Postgraduate Researcher of the Year in 2026! It's the highest honour for UoM PhD graduates and a perfect conclusion of my years as a doctoral researcher.
 * <font size=4><b>April, 2026</b> Two papers accepted by ACL 2026!
 * <font size=4><b>Mar, 2026</b> My first successful funding application! Our project: Multi-Agent Reinforcement Learning for Financial AI, have been selected for NVIDIA Academic Grant Program!
 * <font size=4><b>Feb, 2026</b> Invited as keynote speaker at CL4Health wokshop co-located with LREC 2026.
@@ -26,8 +27,6 @@ I also enjoy the game of basketball, reading, and movies. I'm a huge sci-fi fan.
 * <font size=4><b>Nov, 2025</b> My PhD thesis: "Mental Health Analysis in the Era of Large Language Models" has been published and filed by The University of Manchester!
 * <font size=4><b>Oct, 2025</b> Selected as top reviewers for NeurIPS 2025!
 * <font size=4><b>Oct, 2025</b> Successfully passed my PhD viva!
-* <font size=4><b>Oct, 2025</b> Invited to serve on the program committee for ECIR 2026.
-* <font size=4><b>Sep, 2025</b> One paper accepted by NeurIPS 2025.
 
 
 <b><font size=5>Selected Professional Services</font>
